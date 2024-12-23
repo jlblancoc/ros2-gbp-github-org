@@ -10,6 +10,8 @@ locals {
   ]
   franka_robotics_repositories = [
     "franka_description-release",
+    "franka_ros2-release",
+    "libfranka-release",
   ]
 }
 
